@@ -1,0 +1,4 @@
+document.getElementById("mobiles").createTextRange().getClientRects();
+
+
+http://192.168.0.66:8080/admin/incentive/update.json?investId=150326144108050010

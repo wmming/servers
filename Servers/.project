@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Servers</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>beiying</name>
+			<type>2</type>
+			<locationURI>PARENT-2-PROJECT_LOC/beiying</locationURI>
+		</link>
+		<link>
+			<name>config</name>
+			<type>2</type>
+			<location>C:/tmp/config</location>
+		</link>
+		<link>
+			<name>guanghua</name>
+			<type>2</type>
+			<locationURI>PARENT-2-PROJECT_LOC/works/guanghua</locationURI>
+		</link>
+		<link>
+			<name>uploads</name>
+			<type>2</type>
+			<locationURI>PARENT-2-PROJECT_LOC/uploads</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
